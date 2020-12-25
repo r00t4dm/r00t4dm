@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, This is r00t4dm speaking👋
+## You can conact me with my eMail: r00t4dm@gmail.com
 <!--
 **r00t4dm/r00t4dm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ CVE list: 
+CVE-2020-2798, CVE-2020-2829, CVE-2020-2963, CVE-2020-14636, CVE-2020-14637, CVE-2020-14638, CVE-2020-14639, CVE-2020-14640, CVE-2020-14645, CVE-2020-14652, CVE-2020-14841, CVE-2020-14750, CVE-2020-11620
